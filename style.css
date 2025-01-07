@@ -5,10 +5,13 @@ padding:50px;
 margin-bottom:20px;
 }
 .green{
-color:green;
+border-color:green;
 }
 .blue{
-color:blue;
+border-color:blue;
+}
+.another{
+border-color:rgb(179, 186, 53)
 }
 h1{
 color:#9b59b6;
@@ -17,6 +20,9 @@ p{
 font-size:16px;
 font-style:italic;
 font-family:Verdana;
+}
+.sub-header{
+color:#2980b9;
 }
 p::first-letter{
 font-size:200%;
